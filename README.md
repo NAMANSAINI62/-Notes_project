@@ -30,8 +30,8 @@ npm run build
 
 ## Live Demo
 
-Add your deployed project link here after publishing it on Vercel, Netlify, or GitHub Pages.
+[Visit the live app here](https://bucolic-lebkuchen-f6b3b4.netlify.app)
 
 ## GitHub Repository
 
-Upload the code to your GitHub repository and keep this README updated with the live link.
+[Notes Project on GitHub](https://github.com/NAMANSAINI62/Notes_project)
