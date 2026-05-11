@@ -1,16 +1,37 @@
-# React + Vite
+# Notes Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React + Vite notes app where users can add a heading and details, then view and delete notes from the recent notes list.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Add a new note with heading and details
+- See recent notes instantly on the screen
+- Delete a note when it is no longer needed
+- Responsive layout for desktop and mobile
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Tailwind CSS
 
-## Expanding the ESLint configuration
+## Run Locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev
+```
+
+## Build For Production
+
+```bash
+npm run build
+```
+
+## Live Demo
+
+Add your deployed project link here after publishing it on Vercel, Netlify, or GitHub Pages.
+
+## GitHub Repository
+
+Upload the code to your GitHub repository and keep this README updated with the live link.
